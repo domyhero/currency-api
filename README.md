@@ -1,4 +1,11 @@
-##链接
+## 演示
+
+<img data-toggle="fancybox" data-fancybox-group="gallery" href="http://yun.topthink.com/Uploads/Editor/2017-06-28/59533629e819e.png" src="http://yun.topthink.com/Uploads/Editor/2017-06-28/59533629e819e.png" alt="">
+
+<img data-toggle="fancybox" data-fancybox-group="gallery" href="http://yun.topthink.com/Uploads/Editor/2017-06-28/5953368b00695.png" src="http://yun.topthink.com/Uploads/Editor/2017-06-28/5953368b00695.png" alt="">
+
+
+## 连测试
 
         var socket = io("http://localhost:2345");
 
