@@ -7,7 +7,7 @@ redis + workerman
 
 
 
-## 连测试
+## 连接测试
 
         var socket = io("http://localhost:2345");
 
